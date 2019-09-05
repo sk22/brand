@@ -1,0 +1,1 @@
+primary: #ce1b34 rgb(206, 27, 52)
